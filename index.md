@@ -29,19 +29,19 @@ I then visualized the results three ways using `seaborn`. First, a bar chart of 
 
 A clear majority of students agree that lectures should be available outside of class. The distribution is heavily skewed to the right. Over 200 students gave the highest rating (7), and the top three ratings (5, 6, 7) together account for the vast majority of responses. 
 
-<img src="/comp-110-continous-improvement/static/imgs/livestream_bar.png" alt="Bar chart showing student responses to add_livestream question, heavily skewed toward agreement" width="600"/>
+<img src="/Comp-110-Continuous-Improvement/static/images/livestream_bar.png" alt="Bar chart showing student responses to add_livestream question, heavily skewed toward agreement" width="600"/>
 
 ### Chart 2: Lecture Recording Support vs. Understanding of the Material
 
 If the idea were primarily helping struggling students then we would expect students who have low understanding to want recordings more than students who have higher understanding. The scatterplot doesn't show that pattern however. Students at every level of understanding gave high `add_livestream` ratings. 
 
-<img src="/comp-110-continous-improvement/static/imgs/livestream_vs_understanding.png" alt="Scatterplot of add_livestream vs understanding, showing no strong relationship" width="600"/>
+<img src="/Comp-110-Continuous-Improvement/static/images/livestream_vs_understanding.png" alt="Scatterplot of add_livestream vs understanding, showing no strong relationship" width="600"/>
 
 ### Chart 3: Lecture Recording Support vs. Perceived Course Value
 
 The same thing applies when comparing `add_livestream` against `valuable`. Whether students see the course as deeply valuable or only somewhat valuable, the desire for recorded lectures is still high across the board. This plot suggests that wanting recordings is not related to whether a student is enthusiastic about the course or skeptical of it.
 
-<img src="/comp-110-continous-improvement/static/imgs/livestream_vs_valuable.png" alt="Scatterplot of add_livestream vs valuable, showing no strong relationship" width="600"/>
+<img src="/Comp-110-Continuous-Improvement/static/images/livestream_vs_valuable.png" alt="Scatterplot of add_livestream vs valuable, showing no strong relationship" width="600"/>
 
 ## Conclusion
 
